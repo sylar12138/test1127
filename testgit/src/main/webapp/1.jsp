@@ -6,6 +6,6 @@
   </head>
   
   <body>
-    name111:<%= new Test().getName() %>
+    n阿斯达撒打算1:<%= new Test().getName() %>
   </body>
 </html>
