@@ -6,7 +6,6 @@
   </head>
   
   <body>
-    n阿斯达撒打算1:<%= new Test().getName() %>
-    na阿斯达撒旦me112asda221:<%= new Test().getName() %>
+   99999999999999999999999999999999999999999999
   </body>
 </html>
