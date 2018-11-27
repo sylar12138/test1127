@@ -6,6 +6,6 @@
   </head>
   
   <body>
-    name11111111:<%= new Test().getName() %>
+    name111:<%= new Test().getName() %>
   </body>
 </html>
