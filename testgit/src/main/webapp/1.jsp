@@ -6,10 +6,6 @@
   </head>
   
   <body>
-<<<<<<< HEAD
     n大时代1:<%= new Test().getName() %>
-=======
-   99999999999999999999999999999999999999999999
->>>>>>> branch 'master' of https://github.com/sylar12138/test1127.git
   </body>
 </html>
